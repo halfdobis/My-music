@@ -3,11 +3,12 @@ body {
   padding: 15px;
 }
 
+
 header {
   display:flex;
   justify-content: space-between;
   align-items: center;
-}
+} 
 
 .header-right {
   display:flex;
@@ -53,7 +54,7 @@ main {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-}
+} 
 
 figure {
   flex-basis: 200px;
@@ -69,7 +70,7 @@ figure {
   font-size: 16px;
 }
 
-.movie-title p {
+.author {
   opacity: 0.6;
   font-weight: normal;
   line-height: 12px;
