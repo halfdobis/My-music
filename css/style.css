@@ -86,4 +86,9 @@ figure {
     text-align:center;
     width:100%;
    }
+
+    .push {
+      transform: translateY(0);
+    }
+     
   }
